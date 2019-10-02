@@ -38,16 +38,7 @@ function appendKitten(name) {
   return kittens ; 
 }
 
-// var cities = ["New York", "San Francisco"]
- 
-// we can assign it to the existing `cities` variable
-//cities = ["Philadelphia", ...cities]
- 
-// but if we have a const
-//const cats = ["Milo", "Garfield"]
- 
-// we need a new variable:
-//const moreCats = ["Felix", ...cats]
+
 
 
 
