@@ -1,4 +1,4 @@
-var kittens = ["Milo", "Otis", "Garfield"] 
+const kittens = ["Milo", "Otis", "Garfield"] 
 
 
 //define your array here
