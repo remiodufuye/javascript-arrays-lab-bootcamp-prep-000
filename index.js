@@ -46,6 +46,8 @@ function prependKitten(name) {
   return kittens ; 
 }
 
+removeLastKitten()
+
 
 
 
