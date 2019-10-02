@@ -60,6 +60,7 @@ function removeFirstKitten() {
   var kittens = ["Milo", "Otis", "Garfield"] ;
   var kittens = kittens ; 
   kittens = kittens.slice(1);
+  return kittens ;
   
 }
 
